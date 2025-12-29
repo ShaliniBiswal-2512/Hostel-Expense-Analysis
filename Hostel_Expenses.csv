@@ -1,0 +1,123 @@
+date,expense_type,amount,payment_mode,description
+2024-01-01,Food,120,Cash,Lunch
+2024-01-02,Travel,50,UPI,Auto fare
+2024-01-03,Groceries,300,Card,Weekly groceries
+2024-01-05,Snacks,40,Cash,Evening snacks
+2024-01-07,Utilities,200,UPI,Mobile recharge
+2024-01-10,Food,150,UPI,Dinner
+2024-01-15,Entertainment,250,Card,Movie
+2024-01-20,Groceries,280,Cash,Vegetables
+2024-01-25,Travel,90,UPI,Bus pass
+2024-01-28,Food,130,Cash,Lunch
+2024-02-01,Food,140,UPI,Lunch
+2024-02-03,Groceries,320,Card,Monthly groceries
+2024-02-05,Travel,60,Cash,Auto fare
+2024-02-08,Snacks,50,Cash,Chips and juice
+2024-02-10,Utilities,300,UPI,Electricity bill
+2024-02-14,Entertainment,400,Card,Outing
+2024-02-18,Food,160,UPI,Dinner
+2024-02-22,Groceries,290,Cash,Vegetables
+2024-02-25,Travel,100,UPI,Bus pass
+2024-02-28,Food,120,Cash,Lunch
+2024-03-01,Food,150,UPI,Lunch
+2024-03-03,Groceries,350,Card,Monthly groceries
+2024-03-05,Travel,70,Cash,Auto fare
+2024-03-07,Snacks,60,Cash,Evening snacks
+2024-03-10,Utilities,250,UPI,Internet bill
+2024-03-12,Food,170,UPI,Dinner
+2024-03-15,Entertainment,300,Card,Movie night
+2024-03-20,Groceries,310,Cash,Vegetables
+2024-03-24,Travel,110,UPI,Bus pass
+2024-03-28,Food,140,Cash,Lunch
+2024-04-01,Food,160,UPI,Lunch
+2024-04-03,Groceries,360,Card,Monthly groceries
+2024-04-05,Travel,80,Cash,Auto fare
+2024-04-07,Snacks,55,Cash,Biscuits
+2024-04-10,Utilities,280,UPI,Electricity bill
+2024-04-12,Food,180,UPI,Dinner
+2024-04-15,Entertainment,350,Card,Cafe outing
+2024-04-18,Groceries,330,Cash,Vegetables
+2024-04-22,Travel,120,UPI,Bus pass
+2024-04-28,Food,150,Cash,Lunch
+2024-05-01,Food,170,UPI,Lunch
+2024-05-03,Groceries,380,Card,Monthly groceries
+2024-05-05,Travel,90,Cash,Auto fare
+2024-05-08,Snacks,65,Cash,Evening snacks
+2024-05-10,Utilities,300,UPI,Internet bill
+2024-05-13,Food,190,UPI,Dinner
+2024-05-16,Entertainment,420,Card,Movie + snacks
+2024-05-20,Groceries,340,Cash,Vegetables
+2024-05-24,Travel,130,UPI,Bus pass
+2024-05-29,Food,160,Cash,Lunch
+2024-06-01,Groceries,303,Cash,Vegetables
+2024-06-05,Food,52,Card,Breakfast
+2024-06-10,Food,116,Card,Lunch
+2024-06-15,Utilities,97,UPI,Internet bill
+2024-06-20,Food,382,Cash,Breakfast
+2024-06-25,Utilities,368,Cash,Mobile recharge
+2024-07-01,Snacks,119,Cash,Evening snacks
+2024-07-05,Food,78,Cash,Breakfast
+2024-07-10,Food,250,Cash,Lunch
+2024-07-15,Utilities,56,UPI,Mobile recharge
+2024-07-20,Travel,297,UPI,Auto fare
+2024-07-25,Food,200,Cash,Lunch
+2024-08-01,Travel,148,Cash,Bus pass
+2024-08-05,Snacks,102,Cash,Evening snacks
+2024-08-10,Utilities,132,UPI,Electricity bill
+2024-08-15,Snacks,347,Cash,Tea & snacks
+2024-08-20,Groceries,351,Cash,Vegetables
+2024-08-25,Utilities,322,Card,Mobile recharge
+2024-09-01,Utilities,233,Cash,Internet bill
+2024-09-05,Snacks,372,Card,Evening snacks
+2024-09-10,Utilities,349,Card,Internet bill
+2024-09-15,Utilities,198,Cash,Internet bill
+2024-09-20,Food,158,UPI,Breakfast
+2024-09-25,Utilities,265,Cash,Internet bill
+2024-10-01,Utilities,381,UPI,Internet bill
+2024-10-05,Travel,142,Card,Auto fare
+2024-10-10,Food,259,UPI,Breakfast
+2024-10-15,Food,275,UPI,Dinner
+2024-10-20,Travel,422,UPI,Bus pass
+2024-10-25,Travel,362,Cash,Auto fare
+2024-11-01,Food,58,Cash,Lunch
+2024-11-05,Entertainment,102,UPI,Outing
+2024-11-10,Travel,436,Card,Auto fare
+2024-11-15,Groceries,413,Cash,Fruits
+2024-11-20,Utilities,366,Cash,Mobile recharge
+2024-11-25,Groceries,381,UPI,Monthly groceries
+2024-12-01,Entertainment,74,Card,Movie
+2024-12-05,Food,135,Card,Lunch
+2024-12-10,Utilities,95,Cash,Mobile recharge
+2024-12-15,Food,274,UPI,Breakfast
+2024-12-20,Entertainment,352,Cash,Outing
+2024-12-25,Food,444,Cash,Lunch
+2025-01-01,Utilities,378,UPI,Internet bill
+2025-01-05,Snacks,416,Cash,Evening snacks
+2025-01-10,Groceries,141,Card,Fruits
+2025-01-15,Groceries,301,Card,Fruits
+2025-01-20,Entertainment,189,UPI,Cafe visit
+2025-01-25,Travel,291,Cash,Auto fare
+2025-02-01,Utilities,204,Card,Internet bill
+2025-02-05,Groceries,258,Card,Fruits
+2025-02-10,Travel,231,Card,Bus pass
+2025-02-15,Groceries,299,Card,Monthly groceries
+2025-02-20,Food,313,UPI,Breakfast
+2025-02-25,Snacks,128,UPI,Evening snacks
+2025-03-01,Food,97,UPI,Breakfast
+2025-03-05,Entertainment,127,UPI,Cafe visit
+2025-03-10,Snacks,154,Card,Tea & snacks
+2025-03-15,Entertainment,295,UPI,Cafe visit
+2025-03-20,Food,259,UPI,Dinner
+2025-03-25,Entertainment,361,Cash,Cafe visit
+2025-04-01,Utilities,185,Cash,Mobile recharge
+2025-04-05,Food,284,Card,Lunch
+2025-04-10,Groceries,338,Cash,Monthly groceries
+2025-04-15,Travel,160,Cash,Bus pass
+2025-04-20,Groceries,197,Card,Fruits
+2025-04-25,Travel,312,Cash,Auto fare
+2025-05-01,Groceries,380,Cash,Vegetables
+2025-05-05,Entertainment,107,Card,Cafe visit
+2025-05-10,Utilities,133,UPI,Internet bill
+2025-05-15,Entertainment,391,Cash,Movie
+2025-05-20,Utilities,172,Cash,Electricity bill
+2025-05-25,Entertainment,384,UPI,Outing
