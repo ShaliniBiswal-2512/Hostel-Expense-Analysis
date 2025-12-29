@@ -1,4 +1,4 @@
-📊 Hostel Expense Analysis Dashboard (Power BI)
+📊 Hostel Expense Analysis
 🔍 Project Overview
 
 This project analyses hostel expense data to understand spending patterns across expense categories, payment modes, and time. The goal was to convert raw expense records into actionable insights using data analytics tools.
